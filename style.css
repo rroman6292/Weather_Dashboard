@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    color: white;
+    padding: 15px;
+    background-color: #23456f;
+}
+
+.card {
+    background-color: lightgray;
+}
+.sidebar {
+    background-color: #5a8dcb;
+}
+
+#search-city {
+    background-color: white;
+}
